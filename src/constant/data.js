@@ -2,7 +2,7 @@ import Anton from "../assets/Anton.jpeg";
 import Clark from "../assets/Clark.jpeg";
 import Sarah from "../assets/Sarah.jpeg";
 
-const initialFriends = [
+export const initialFriends = [
   {
     id: 118836,
     name: "Clark",
